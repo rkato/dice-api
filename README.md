@@ -1,6 +1,5 @@
 # dice-api
 
-FIXME
 
 ## Usage
 
