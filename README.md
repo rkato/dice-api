@@ -1,0 +1,2 @@
+# dice-api
+Exploring Compojure
