@@ -1,5 +1,4 @@
 # dice-api
-<<<<<<< HEAD
 
 FIXME
 
@@ -21,8 +20,3 @@ java -jar target/server.jar
 `lein ring uberwar`
 
 ## License
-
-Copyright ©  FIXME
-=======
-Exploring Compojure
->>>>>>> 4d26be05872ad8c0c761a948566670e69bd1d0e4
